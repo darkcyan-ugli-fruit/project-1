@@ -1,1 +1,3 @@
 Create a new .txt file, add a little bit of text to it.
+
+Now go back to your .txt file, open it again in your text editor and add more text and save the file again. 
